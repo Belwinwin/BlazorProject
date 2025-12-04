@@ -15,9 +15,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Services\Extensions\" />
-    <Folder Include="Services\" />
     <Folder Include="ViewModels\" />
+    <Folder Include="wwwroot\lib\bootstrap\NewFolder\" />
+    <Folder Include="wwwroot\lib\NewFolder1\" />
+    <Folder Include="wwwroot\lib\NewFolder\" />
   </ItemGroup>
 
 </Project>
